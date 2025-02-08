@@ -1,7 +1,7 @@
 # Power Electronics Application in DC Motor Drives
 
 ## 📌 Project Overview
-This project, developed by **Sarwan Shah** at the **Dhanani School of Science and Engineering, Habib University**, explores the application of **Power Electronics** in **DC Motor Drives**. It covers the design, control strategies, and MATLAB-Simulink modeling of motor drive circuits, including **AC to DC rectification** and **quadrant control** for industrial DC motors.
+This project was developed under the **EE-331 Electrical Machines** course at **Habib University** during Spring 2020. The project explores the application of **Power Electronics** in **DC Motor Drives**. It covers the design, control strategies, and MATLAB-Simulink modeling of motor drive circuits, including **AC to DC rectification** and **quadrant control** for industrial DC motors.
 
 **REPORT: **
 
@@ -42,10 +42,6 @@ This project, developed by **Sarwan Shah** at the **Dhanani School of Science an
 - High reactive power consumption at greater firing angles.
 - Erratic motor behavior at lower speeds due to pulsating currents.
 - Complexity and cost of implementing full 4-quadrant control.
-
-## 📥 How to Use  
-1. Review the **circuit diagrams** and setup instructions provided in the report.
-2. Use MATLAB-Simulink to simulate motor drive operations.
 3. Adjust firing angles to observe the effects on motor speed, torque, and reactive power.
 
 ## 🔗 References  
