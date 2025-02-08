@@ -3,7 +3,14 @@
 ## 📌 Project Overview
 This project was developed under the **EE-331 Electrical Machines** course at **Habib University** during Spring 2020. The project explores the application of **Power Electronics** in **DC Motor Drives**. It covers the design, control strategies, and MATLAB-Simulink modeling of motor drive circuits, including **AC to DC rectification** and **quadrant control** for industrial DC motors.
 
-**REPORT: **
+**REPORT: https://github.com/SarwanShah/HU_2020_Case_Study_On_DC_Motor_Drives/blob/main/Power%20Electronics%20Application%20in%20DC%20Motor%20Drives%20-%20Case%20Study%20-%20ss03595%20-%20Sarwan%20Shah.pdf**
+
+**VIDEO PRESENTATION: **
+
+<a href="https://www.youtube.com/watch?v=dFrL1lOqHpk" target="_blank">
+    <img src="https://img.youtube.com/vi/dFrL1lOqHpk/maxresdefault.jpg" alt="Watch the video" width="400">
+</a>
+
 
 ## 🛠 Features  
 - **AC to DC Rectification**  
