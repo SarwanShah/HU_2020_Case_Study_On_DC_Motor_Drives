@@ -45,7 +45,7 @@ This project was developed under the **EE-331 Electrical Machines** course at **
 - Simulates real-world behavior of motor drives.
 - Visualizes the impact of firing angles on voltage, current, and reactive power.
 
-## ⚠ Design Challenges  
+## Design Challenges  
 - High reactive power consumption at greater firing angles.
 - Erratic motor behavior at lower speeds due to pulsating currents.
 - Complexity and cost of implementing full 4-quadrant control.
