@@ -1,6 +1,6 @@
 # Power Electronics Application in DC Motor Drives
 
-## 📌 Project Overview
+## Project Overview
 This project was developed under the **EE-331 Electrical Machines** course at **Habib University** during Spring 2020. The project explores the application of **Power Electronics** in **DC Motor Drives**. It covers the design, control strategies, and MATLAB-Simulink modeling of motor drive circuits, including **AC to DC rectification** and **quadrant control** for industrial DC motors.
 
 **REPORT: https://github.com/SarwanShah/HU_2020_Case_Study_On_DC_Motor_Drives/blob/main/Power%20Electronics%20Application%20in%20DC%20Motor%20Drives%20-%20Case%20Study%20-%20ss03595%20-%20Sarwan%20Shah.pdf**
@@ -12,7 +12,7 @@ This project was developed under the **EE-331 Electrical Machines** course at **
 </a>
 
 
-## 🛠 Features  
+## Features  
 - **AC to DC Rectification**  
   - Conversion of **3-phase AC** to **DC** using a **6-pulse rectifier**.
   - Improved power delivery with reduced I²R losses and smoothed output through filtering inductors.
@@ -27,7 +27,7 @@ This project was developed under the **EE-331 Electrical Machines** course at **
   - Demonstrates real-time behavior of DC motor drives with adjustable parameters.
   - Supports analysis of voltage, current, and power stress based on varying firing angles.
 
-## 🏗 Project Implementation  
+## Project Implementation  
 ### ➤ **AC to DC Rectification**  
 - Utilizes a **3-phase, 6-pulse rectifier** circuit to ensure higher average DC voltage output.
 - Integration of **filtering inductors** to maintain a steady current and reduce losses.
@@ -51,7 +51,7 @@ This project was developed under the **EE-331 Electrical Machines** course at **
 - Complexity and cost of implementing full 4-quadrant control.
 3. Adjust firing angles to observe the effects on motor speed, torque, and reactive power.
 
-## 🔗 References  
+## References  
 - Wildi, T. *Electrical Machines, Drives, and Power Systems*. Pearson New International Edition, 2014.
 - Various studies on **thyristor control** and **reactive power** generation.
 
